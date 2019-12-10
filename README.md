@@ -36,9 +36,6 @@ Optionaly `(%d)` or `(%d,n)`(n - start number) can be used anywhere in the name.
  - `(%d)worker_(%d,55)name` equals `1worker_55name` in configuration file on flashed usb flash drive. __Both__ numbers will increment by 1 after each successful flash.
  
  # <a name="downloads"></a>Download NiceHash OS Flash Tool
- - Download installer for [Windows](https://github.com/nicehash/NHOS-Burner/blob/master/NHOS-Flash-Tool-1.0.0.exe)
+ - Download installer for [Windows](https://github.com/nicehash/NHOS-Burner/blob/master/NHOS-Flash-Tool-1.0.1.exe)
  - Download installer for Linux([DEB](https://github.com/nicehash/NHOS-Burner/blob/master/NHOS-Flash-Tool-1.0.0.deb),[RPM](https://github.com/nicehash/NHOS-Burner/blob/master/NHOS-Flash-Tool-1.0.0.rpm))
- - Download installer for [MacOS (DMG)](https://github.com/nicehash/NHOS-Burner/blob/master/NHOS-Flash-Tool-1.0.0.dmg)
-
-__NOTE:__ 
-NiceHash OS Flash Tool on __MacOs(10.15) Catalina__ must be run using __sudo__ `sudo "<path/to/NiceHash OS Flash Tool>/NHOS Flash Tool.app/Content/MacOs/NHOS Flash Tool"`
+ - Download installer for [MacOS (DMG)](https://github.com/nicehash/NHOS-Burner/blob/master/NHOS-Flash-Tool-1.0.1.dmg)
