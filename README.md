@@ -20,10 +20,9 @@ The process described below will delete any data currently on your flash drive. 
 - Start flashing.
 
  # <a name="config"></a> NiceHash OS Configuration
-- __BTC Address:__ Your NiceHash BTC address. __**Mandatory*__
+- __Mining Address:__ Your NiceHash mining address. __**Mandatory*__
 - __Worker name:__ Name of your mining machine (sometimes referred to as `rig name`). Have in mind, that `worker` name is limited to alphanumeric characters from English alphabet, `a` to `z`, `A` to `Z`, `0` to `9` and characters `-` (hyphen), `_` (underscore). After succesfull flashing it will automaticaly increment by 1 if the name ends with a number.
 Optionaly `(%d)` or `(%d,n)`(n - start number) can be used anywhere in the name. `(%d)` will be replaced by 1 and increment with each succesfull flash, `(%d,n)` will be replaced with __number n__ and increment with each succesfull flash.__**Optional*__
-- __Group name:__ Put your mining machine into group.__**Optional*__
 - __Wireless ssid:__ Provide the name for a wireless network access.__**Optional*__
 - __Wireless key:__ Security key for wireless network access authentication.__**Optional*__
 - __SSH key:__ SSH public key for user authentication.__**Optional*__
